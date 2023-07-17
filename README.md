@@ -3,8 +3,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Description
-
 The Memory Utils Library is a simple and efficient memory allocation and management system designed for San Andreas Multiplayer (SA-MP) server scripts. It allows dynamic allocation of memory blocks to store floating-point values (`float`s) and provides functions to access and modify the allocated memory.
 
 ## Features
